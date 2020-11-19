@@ -1,0 +1,84 @@
+.menu li a::before {
+  background: #44bd32 none repeat scroll 0 0;
+}
+.menu li.current-menu-item a {
+  color: #44bd32;
+}
+.menu li a:hover {
+    color: #44bd32;
+    text-decoration: underline;
+}
+.fa-pencil-square-o {
+    background: #44bd32;
+}
+.fa-pencil-square-o:hover {
+    color: #44bd32;
+}
+.welcome-text span {
+    color: #44bd32;
+}
+h2.content-title,
+h2.content-subtitle {
+    color: #44bd32;
+}
+.farm-home-slider-area .slick-prev.fa.fa-angle-left.slick-arrow, .farm-home-slider-area .slick-next.fa.fa-angle-right.slick-arrow{
+	color: #44bd32;
+}
+.slick-next.fa.fa-angle-right.slick-arrow:hover,
+.slick-prev.fa.fa-angle-left.slick-arrow:hover {
+    background: #e73d01;
+}
+.farm-about-us .contact-botton a {
+    background: #44bd32;
+	box-shadow: 0px 5px 0 #dbdbdb;
+}
+.product-select .col-sm-6:nth-child(odd) .farm-single-product:hover {
+    border: 2px solid #44bd32
+}
+.product-select .col-sm-6:nth-child(even) .farm-single-product:hover {
+    border-color: #44bd32
+}
+.hover-product a {
+    background: #44bd32 none repeat scroll 0 0;
+    -webkit-box-shadow: 0px 5px 0 #255c2d;
+    -moz-box-shadow: 0px 5px 0 #255c2d;
+    box-shadow: 0px 5px 0 #255c2d;
+}
+.panel-heading a::before {
+    background: #44bd32;
+}
+.contact-botton a:hover {
+    background: #44bd32 none repeat scroll 0 0;
+}
+.farm-about-us .contact-botton a {
+    background: #44bd32;
+}
+.farm-price-content h4 a {
+    color: #44bd32;
+}
+.farm-project-nav li:hover,
+.farm-project-nav li.active {
+    color: #44bd32;
+}
+.project-weight {
+    background: #44bd32 none repeat scroll 0 0;
+}
+.single-client-btn a.client-btn {
+    background: #44bd32 none repeat scroll 0 0;
+}
+.single-client-btn a.client-btn:hover {
+    color: #44bd32;
+}
+.single-contact:hover p {
+    color: #44bd32;
+}
+.single-submit input {
+    background: #44bd32 none repeat scroll 0 0;
+    box-shadow: 5px 5px 0 #333333;
+}
+.single-submit input:hover {
+    color: #44bd32;
+}
+.scrollToTop {
+	background: #44bd32;
+}
